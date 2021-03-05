@@ -3,7 +3,7 @@
 
 
 ### 예제 넣는 방법
-examples.md에 예시대로 맞게 적은 후 nunalang/nuna에 PR를 보내시면 알고리즘이 잘 작동하는 지 확인한 후에 머지 
+examples.md에 예시대로 맞게 적은 후 nunalang/nuna에 PR를 보내시면 알고리즘이 잘 작동하는 지 확인한 후에 merge 됩니다 
 
 예시)
 ```

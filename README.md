@@ -33,8 +33,11 @@
 누나..........누나.....나.....나..주거..나읏주거나읏주거...나읏주거....🏩주거...........누나주..나읏나..💕눈..나..........💕!
 ```
 * 출력 결과: 흐읏
+
 #### 구현체
-* [C++](https://github.com/hui1601/nuna-interpreter)
+[C++로 제작한 nuna interpreter](https://github.com/hui1601/nuna-interpreter)
+[Python으로 제작한 nuna interpreter](https://github.com/pl-Steve28-lq/PyNuna)
+[Node.js로 제작한 nuna interpreter](https://github.com/franknoh/nuna-interpreter)
 
 #### 주의
 이 언어의 작가는 현재 누나가 없으며 (미래에도 없을 예정), 이 언어는 미니멀리즘을 추구합니다

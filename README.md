@@ -1,6 +1,14 @@
 # nuna
 (우리의 가상) 누나 언어 v0.4
 
+## 릴리즈 목록 (releases)
+| tag | status | released at | author | main commit |
+|:---:|:------:|:-----------:|:------:|:------------|
+| v0.4 | `draft` | - | @pmh-only | a4c922d |
+| v0.3 | `stable` | 2021.03.07 | @hui1601 | b4bc1ad |
+| v0.2 | `stable` | 2021.02.23 | @AkiaCode | 96f8362 |
+| v0.1 | `unsupported` | - | - | - |
+
 ## 명세
 ### 변수 (variables)
 누나 언어는 하나의 스택을 갖습니다.\

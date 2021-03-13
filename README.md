@@ -104,7 +104,7 @@
 * [franknoh/nuna-interpreter](https://github.com/franknoh/nuna-interpreter) - [비공식] nodejs NUNA 인터프리터
 
 ### 공식 구현체 만족 조건
-다음 조건을 맞춘 구현체는 이슈로 남겨주시면 nunalang레포로 옮겨드립니다.
+다음 조건을 맞춘 구현체는 이슈로 남겨주시면 [nunalang 공식 올가니제이션](https://github.com/nunalang)으로 옮겨드립니다.
 * 명세를 최대한 따라야 합니다.
 * 구현체 이름에 `누나` 혹은 `Nuna`(대소문자 구분 없음)이 포함되어 있어야 합니다.
 * 리드미에 "사용 가능한 정수 범위"와 "신뢰성을 보증하는 정수 범위"를 표기하여야 합니다.

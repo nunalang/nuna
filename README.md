@@ -89,7 +89,7 @@
 * 출력 결과: 누나
 
 ## 구현체
-21년 3월 13일 기준 구현체 목록입니다.
+2021년 3월 13일 기준 구현체 목록입니다.
 * [nunalang/web-nuna](https://github.com/nunalang/web-nuna) - [공식] 웹누나 구현체
 * [hui1601/nuna-interpreter](https://github.com/hui1601/nuna-interpreter) - [비공식] C++ NUNA 인터프리터
 * [pl-Steve28-lq/PyNuna](https://github.com/pl-Steve28-lq/PyNuna) - [비공식] Nuna Language Interpreter Implemented with Python

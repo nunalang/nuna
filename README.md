@@ -96,9 +96,9 @@
 * [franknoh/nuna-interpreter](https://github.com/franknoh/nuna-interpreter) - [비공식] nodejs NUNA 인터프리터
 
 ## 릴리즈 목록 (releases)
-| tag | status | released at | author | main commit |
+| tag | status | released at | contributors | main commit |
 |:---:|:------:|:-----------:|:------:|:------------|
-| v0.4 | `draft` | - | @pmh-only | a4c922d |
-| v0.3 | `stable` | 2021.03.07 | @hui1601 | 0ee138b |
+| v0.4 | `draft` | - | @pmh-only, @akiacode | a4c922d |
+| v0.3 | `stable` | 2021.03.07 | @hui1601, @pmh-only, @akiacode, @franknoh @pl-Steve28-lq | 0ee138b |
 | v0.2 | `stable` | 2021.02.23 | @AkiaCode | 96f8362 |
 | v0.1 | `unsupported` | - | - | - |

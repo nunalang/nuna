@@ -99,6 +99,6 @@
 | tag | status | released at | contributors | main commit |
 |:---:|:------:|:-----------:|:------:|:------------|
 | v0.4 | `stable` | 2021.03.17 | @pmh-only, @Akiacode | a4c922d |
-| v0.3 | `stable` | 2021.03.07 | @hui1601, @pmh-only, @Akiacode, @franknoh @pl-Steve28-lq | 0ee138b |
+| v0.3 | `stable` | 2021.03.07 | @hui1601, @pmh-only, @Akiacode, @franknoh, @pl-Steve28-lq | 0ee138b |
 | v0.2 | `outdated` | 2021.02.23 | @AkiaCode | 96f8362 |
 | v0.1 | `unsupported` | - | - | - |

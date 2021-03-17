@@ -4,12 +4,12 @@
 ## 명세
 ### 변수 (variables)
 누나 언어는 하나의 스택을 갖습니다.\
-시스템 변수를 제외한 모든 변수는 이 스택에 저장됩니다.\
+내부 변수를 제외한 모든 변수는 이 스택에 저장됩니다.\
 스택의 아이템은 `스택 번호(index)`와 `값(variable)`로 구성되며
 이때 값은 `부호있는 정수형(signed integer)`을 의미합니다.
 
 ### 변수 가르키기 (variable pointer)
-누나 언어는 `pointer`라는 시스템 변수를 갖습니다.\
+누나 언어는 `pointer`라는 내부 변수를 갖습니다.\
 이는 현재 가르키고 있는 `스택 번호`를 의미합니다.\
 언어를 실행할때 `pointer`값은 `0`으로 초기화됩니다.
 이는 아무 `스택 번호`도 가르키지 않음을 의미합니다.\
@@ -90,10 +90,10 @@
 
 ## 구현체
 2021년 3월 13일 기준 구현체 목록입니다.
-* [nunalang/web-nuna](https://github.com/nunalang/web-nuna) - [공식] 웹누나 구현체
-* [hui1601/nuna-interpreter](https://github.com/hui1601/nuna-interpreter) - [비공식] C++ NUNA 인터프리터
-* [pl-Steve28-lq/PyNuna](https://github.com/pl-Steve28-lq/PyNuna) - [비공식] Nuna Language Interpreter Implemented with Python
-* [franknoh/nuna-interpreter](https://github.com/franknoh/nuna-interpreter) - [비공식] nodejs NUNA 인터프리터
+* [nunalang/web-nuna](https://github.com/nunalang/web-nuna) - [공식] 웹누나: 바닐라 JS Nuna 구현체
+* [hui1601/nuna-interpreter](https://github.com/hui1601/nuna-interpreter) - [비공식] C++ Nuna 인터프리터
+* [pl-Steve28-lq/PyNuna](https://github.com/pl-Steve28-lq/PyNuna) - [비공식] Python Nuna 인터프리터
+* [franknoh/nuna-interpreter](https://github.com/franknoh/nuna-interpreter) - [비공식] nodejs Nuna 인터프리터
 
 ## 릴리즈 목록 (releases)
 | tag | status | released at | contributors | main commit |
